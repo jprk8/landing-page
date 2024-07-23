@@ -41,6 +41,7 @@ ul {
     font-size: 18px;
     padding: 0 480px;
     justify-content: center;
+    text-wrap: nowrap;
 }
 
 .logo {
